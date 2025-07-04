@@ -1,4 +1,5 @@
-![Diagrama del modelo de predicción](image.png)
+![Diagrama del modelo de predicción](src/img/image.png)
+
 
 
 # Predicción de Costos de Seguro Médico con Machine Learning
